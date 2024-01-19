@@ -1,4 +1,4 @@
-STUID = 3130000253
+STUID = 3130253
 STUNAME = 全乐
 
 # DO NOT modify the following code!!!
